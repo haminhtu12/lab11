@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BVCN288</Machine>
+    <WindowsUser>LT88 - BVCN 2</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9c4ee5ea-f993-4946-8297-69e82369382f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=LT88 - BVCN 2</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D9E622E3FB5A707A8527F4CC83B7B9F1F8815F5DCF342D6ED450FFF32FDA3209</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9c4ee5ea-f993-4946-8297-69e82369382f_1.0.0.0_x86__2jahvzvqdabkc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9c4ee5ea-f993-4946-8297-69e82369382f_2jahvzvqdabkc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9c4ee5ea-f993-4946-8297-69e82369382f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LT88 - BVCN 2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-28T19:19:03.324</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\lLab11_U49.exe">
+      <PackagePath>entrypoint\lLab11_U49.exe</PackagePath>
+      <Modified>2020-08-28T19:19:02.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T12:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T11:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Animals\Cat.wav">
+      <PackagePath>Assets\Audio\Animals\Cat.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Animals\Cow.wav">
+      <PackagePath>Assets\Audio\Animals\Cow.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Cartoons\Gun.wav">
+      <PackagePath>Assets\Audio\Cartoons\Gun.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Cartoons\Spring.wav">
+      <PackagePath>Assets\Audio\Cartoons\Spring.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Taunts\Clock.wav">
+      <PackagePath>Assets\Audio\Taunts\Clock.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Taunts\LOL.wav">
+      <PackagePath>Assets\Audio\Taunts\LOL.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Warnings\Ship.wav">
+      <PackagePath>Assets\Audio\Warnings\Ship.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Audio\Warnings\Siren.wav">
+      <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
+      <Modified>2020-08-25T04:04:30.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Icons\animals.png">
+      <PackagePath>Assets\Icons\animals.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Icons\cartoon.png">
+      <PackagePath>Assets\Icons\cartoon.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Icons\taunt.png">
+      <PackagePath>Assets\Icons\taunt.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Icons\warning.png">
+      <PackagePath>Assets\Icons\warning.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Animals\Cat.png">
+      <PackagePath>Assets\Images\Animals\Cat.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Animals\Cow.png">
+      <PackagePath>Assets\Images\Animals\Cow.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Cartoons\Gun.png">
+      <PackagePath>Assets\Images\Cartoons\Gun.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Cartoons\Spring.png">
+      <PackagePath>Assets\Images\Cartoons\Spring.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Taunts\Clock.png">
+      <PackagePath>Assets\Images\Taunts\Clock.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Taunts\LOL.png">
+      <PackagePath>Assets\Images\Taunts\LOL.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Warnings\Ship.png">
+      <PackagePath>Assets\Images\Warnings\Ship.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Images\Warnings\Siren.png">
+      <PackagePath>Assets\Images\Warnings\Siren.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\1240x1240.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x1240.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\1240x600.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x600.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\24x24-large.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24-large.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\24x24.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\300x300.png">
+      <PackagePath>Assets\PackageAppXManifest\300x300.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\310x310.scale-100.png">
+      <PackagePath>Assets\PackageAppXManifest\310x310.scale-100.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\50x50-large.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50-large.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\50x50.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\620x300.png">
+      <PackagePath>Assets\PackageAppXManifest\620x300.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\71x71-large.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71-large.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\71x71.scale-100.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71.scale-100.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\88x88-large.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88-large.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\PackageAppXManifest\88x88.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
+      <Modified>2020-08-25T04:04:30.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:17:58.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:17:58.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:17:58.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:17:58.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-08-19T08:55:29.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:17:58.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-19T08:55:29.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:10:23.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-19T08:55:29.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-19T08:55:29.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-08-25T04:01:16.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\lLab11_U49.xr.xml">
+      <PackagePath>lLab11_U49.xr.xml</PackagePath>
+      <Modified>2020-08-25T06:17:19.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-08-28T19:19:02.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-08-28T19:19:02.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T10:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-08-25T07:18:13.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LT88 - BVCN 2\source\repos\demo_control\lLab11_U49\bin\x86\Debug\Core\lLab11_U49.exe">
+      <PackagePath>lLab11_U49.exe</PackagePath>
+      <Modified>2020-08-28T19:19:03.296</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
